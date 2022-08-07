@@ -1,0 +1,103 @@
+.container{
+    max-width: 1160px;
+    width: calc(100% - 50px);
+    margin: 0 auto;
+}
+.form_block{
+    margin: 30px 0;
+}
+.form_header{
+    max-width: 575px;
+    width: calc(100% - 50px);
+    text-align: center;
+    margin: 0 auto;
+    z-index: 99;
+    position: relative;
+    padding-top: 40px;
+}
+.form_header h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+.form{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: space-between;
+    justify-content: space-between;
+    align-items: center;
+}
+.image, .form_content{
+    width: 50%;
+}
+.form_content{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.image img{
+    width: 100%;
+    display: block;
+}
+.form_control{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.form_control label{
+    display: block;
+    width: 100%;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.form_control input, .form_control textarea{
+    width: calc(100% - 20px);
+    background-color: #f5f5f58f;
+    border: none;
+    min-height: 45px;
+    padding-left: 20px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+.form_control input::placeholder,
+.form_control textarea::placeholder{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.form_control textarea{
+    padding-top: 10px;
+}
+.form_button button{
+    transition: 0.3s;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    border-radius: 4px;
+    background-color: #fab385;
+    box-shadow: 2px 1px 2px 0px #0003;
+    border: none;
+}
+@media only screen and (max-width: 1024px){
+
+}
+@media only screen and (max-width: 768px){
+    .image, .form_content{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 575px){
+    .form_header{
+        width: 100%;
+    }
+}
