@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pp-blogs/static/css/main.4cd41dc1.css",
+    "main.js": "/pp-blogs/static/js/main.4bfe686d.js",
+    "static/js/787.f587e8d5.chunk.js": "/pp-blogs/static/js/787.f587e8d5.chunk.js",
+    "static/media/addblog.jpg": "/pp-blogs/static/media/addblog.30623b37b401f5bb39f0.jpg",
+    "static/media/developer.png": "/pp-blogs/static/media/developer.335d2cf8a0b549525a19.png",
+    "static/media/favourite.jpg": "/pp-blogs/static/media/favourite.763e59420e7923dd3c6d.jpg",
+    "static/media/blog-image.jpg": "/pp-blogs/static/media/blog-image.95bfd0e8084c504c5968.jpg",
+    "static/media/heart.png": "/pp-blogs/static/media/heart.f07efcd2ab09f00c0c22.png",
+    "static/media/whatsapp.png": "/pp-blogs/static/media/whatsapp.29dd41c9009c90f690c6.png",
+    "static/media/instagram.png": "/pp-blogs/static/media/instagram.ac32ec0a111aeba03298.png",
+    "static/media/heart-blank.png": "/pp-blogs/static/media/heart-blank.8282275b4a8053bf5eb5.png",
+    "static/media/github.png": "/pp-blogs/static/media/github.44eee0c4a6c25b0d7347.png",
+    "index.html": "/pp-blogs/index.html",
+    "main.4cd41dc1.css.map": "/pp-blogs/static/css/main.4cd41dc1.css.map",
+    "main.4bfe686d.js.map": "/pp-blogs/static/js/main.4bfe686d.js.map",
+    "787.f587e8d5.chunk.js.map": "/pp-blogs/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd41dc1.css",
+    "static/js/main.4bfe686d.js"
+  ]
+}
